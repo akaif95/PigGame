@@ -1,9 +1,4 @@
 '''
-Author: <Ali Kaif>
-Date: <2/29/18>
-Class: ISTA 130
-Section Leader: <Sebastian>
-
 Description:
 <A list of varying functions that help to create the game 'Pig'>
 '''
